@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../source  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -std=c++20 -o source/CMakeFiles/client.dir/client.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/source/client.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/source/client.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -std=c++20 -o test/CMakeFiles/test_main.dir/test_main.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/test_main.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/test_main.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/template_tests.dir/template_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/template_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/template_tests.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/friend_functions_tests.dir/friend_functions_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/friend_functions_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/friend_functions_tests.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/modifers_tests.dir/modifers_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/modifers_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/modifers_tests.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/accessors_tests.dir/accessors_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/accessors_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/accessors_tests.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/constructor_reliant_methods.dir/constructor_reliant_methods.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/constructor_reliant_methods.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/constructor_reliant_methods.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/iterator_tests.dir/iterator_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/iterator_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/iterator_tests.cpp"
+},
+{
+  "directory": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build",
+  "command": "/usr/bin/clang++-11 -I../include -I../test/graph -I../test/.  -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/constructor_tests.dir/constructor_tests.cpp.o -c /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/constructor_tests.cpp",
+  "file": "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph/constructor_tests.cpp"
+}
+]

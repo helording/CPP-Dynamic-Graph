@@ -1,0 +1,94 @@
+Start testing: Aug 01 21:20 AEST
+----------------------------------------------------------
+4/5 Testing: test.remainder_modifers_tests
+4/5 Test: test.remainder_modifers_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/remainder_modifers_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.remainder_modifers_tests" start time: Aug 01 21:20 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (296 assertions in 6 test cases)
+
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"test.remainder_modifers_tests" end time: Aug 01 21:20 AEST
+"test.remainder_modifers_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: test.iterator_tests
+5/5 Test: test.iterator_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/iterator_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.iterator_tests" start time: Aug 01 21:20 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (81 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"test.iterator_tests" end time: Aug 01 21:20 AEST
+"test.iterator_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: test.constructor_tests
+2/5 Test: test.constructor_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.constructor_tests" start time: Aug 01 21:20 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (119 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"test.constructor_tests" end time: Aug 01 21:20 AEST
+"test.constructor_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: test.getters_setters_tests
+3/5 Test: test.getters_setters_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/getters_setters_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.getters_setters_tests" start time: Aug 01 21:20 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (114 assertions in 9 test cases)
+
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"test.getters_setters_tests" end time: Aug 01 21:20 AEST
+"test.getters_setters_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/5 Testing: test.graph_test1
+1/5 Test: test.graph_test1
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/graph_test1"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.graph_test1" start time: Aug 01 21:20 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test1" end time: Aug 01 21:20 AEST
+"test.graph_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 01 21:20 AEST

@@ -1,0 +1,12 @@
+test.graph_test1 224 0.130958
+test.constructor_tests 228 0.143194
+test.iterator_tests 183 0.147708
+test.getters_setters_tests 86 0.160262
+test.remainder_modifers_tests 47 0.175391
+test.basic_accessors_modifers 30 0.152765
+test.accessors_tests 62 0.119205
+test.modifers_tests 62 0.142641
+test.friend_functions_tests 41 0.119198
+test.template_tests 34 0.13031
+test.constructor_reliant_methods 25 0.11539
+---

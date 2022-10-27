@@ -1,0 +1,76 @@
+Start testing: Aug 01 09:41 AEST
+----------------------------------------------------------
+2/4 Testing: test.constructor_tests
+2/4 Test: test.constructor_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.constructor_tests" start time: Aug 01 09:41 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (119 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"test.constructor_tests" end time: Aug 01 09:41 AEST
+"test.constructor_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: test.iterator_tests
+4/4 Test: test.iterator_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/iterator_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.iterator_tests" start time: Aug 01 09:41 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (81 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"test.iterator_tests" end time: Aug 01 09:41 AEST
+"test.iterator_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/4 Testing: test.graph_test1
+1/4 Test: test.graph_test1
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/graph_test1"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.graph_test1" start time: Aug 01 09:41 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test1" end time: Aug 01 09:41 AEST
+"test.graph_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: test.getters_setters_tests
+3/4 Test: test.getters_setters_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/getters_setters_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.getters_setters_tests" start time: Aug 01 09:41 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (107 assertions in 9 test cases)
+
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"test.getters_setters_tests" end time: Aug 01 09:41 AEST
+"test.getters_setters_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 01 09:41 AEST

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220802-0102-Experimental"
+	Name="vx4"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx5"
+	OSRelease="4.19.0-0.bpo.19-amd64"
+	OSVersion="#1 SMP Debian 4.19.232-1~deb9u1 (2022-03-08)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="22528"
+	NumberOfLogicalCPU="64"
+	NumberOfPhysicalCPU="32"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="385595"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2870"
+	>
+	<Testing>
+		<StartDateTime>Aug 02 23:23 AEST</StartDateTime>
+		<StartTestTime>1659446602</StartTestTime>
+		<TestList>
+			<Test>./test/graph/test.constructor_tests</Test>
+			<Test>./test/graph/test.modifers_tests</Test>
+			<Test>./test/graph/test.template_tests</Test>
+			<Test>./test/graph/test.friend_functions_tests</Test>
+			<Test>./test/graph/test.iterator_tests</Test>
+			<Test>./test/graph/test.accessors_tests</Test>
+			<Test>./test/graph/test.constructor_reliant_methods</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test.constructor_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.constructor_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.141206</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0sVQAMYtKMvPzihUy8xTMwSoUkhOLU4s1ubgAkDoj1Q==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.modifers_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.modifers_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/modifers_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.141176</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/modifers_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAyNlcAMYtKMvPzihUy8xTMwSoUkhOLU4s1ubgAj/0j0w==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.template_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.template_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/template_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.11745</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/template_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0MFAAMYtKMvPzihUy8xSMwCoUkhOLU4s1ubgAjlgjww==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.friend_functions_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.friend_functions_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/friend_functions_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0971906</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/friend_functions_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DBSADGKSjLz84oVMvMUDMHyCsmJxamaXFwAK1Mi8A==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.iterator_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.iterator_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/iterator_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.152519</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/iterator_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0LAwUgCxikoy8/OKFTLzFMzBChSSE4tTizW5uABwXiOh====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.accessors_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.accessors_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/accessors_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.191527</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/accessors_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAxUQCxikoy8/OKFTLzFEzBChSSE4tTizW5uABv/iOd====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.constructor_reliant_methods</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.constructor_reliant_methods</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_reliant_methods</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.185805</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_reliant_methods</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0NVUAMYtKMvPzihUy8xRMwSoUkhOLU4s1ubgAj8Aj0A==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 02 23:23 AEST</EndDateTime>
+		<EndTestTime>1659446602</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220729-0217-Experimental"
+	Name="vx4"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx4"
+	OSRelease="4.9.0-18-amd64"
+	OSVersion="#1 SMP Debian 4.9.303-1 (2022-03-07)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="79"
+	ProcessorCacheSize="35840"
+	NumberOfLogicalCPU="56"
+	NumberOfPhysicalCPU="28"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="257869"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1295.36"
+	>
+	<Testing>
+		<StartDateTime>Jul 29 21:36 AEST</StartDateTime>
+		<StartTestTime>1659094578</StartTestTime>
+		<TestList>
+			<Test>./test/graph/test.constructor_tests</Test>
+			<Test>./test/graph/test.graph_test1</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>test.constructor_tests</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.constructor_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>3</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.127826</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzNlM9qAjEQxu95iu9U9GA0brV1YSnFWlraU19Awm50A+smZGL/gPTZm6xYC714COgccpj5kvmYXxL2nTZYaVryblt645ZekSdogsRc+rLG+5iLjM9QG/KQ1ja6lF6blrO3bYsP7WsM7rAyDsbGPDE2SBts7aSte9161ccft4huGdCVQsF+HauqwsqZDTbbxutBayq1lyV3x/kw2hh2pw//zZKX1uaz2yBLGuykvkKIHI/3z6+LhzzMaf60mL/0sOaalnEives+igJhn0KfdSzVp5UtBY5Rv5INqYPiwrnur6Kq1orOgliIyZkYZ6MLZmyscjIYLn45d2xTtzlpUDNxHkLj0SQhoSJtsOgTpSRFOXCDHTCBlUThoe0wDt11oyoWE67733NMp6EyzY6q7KBiPw0oyI4=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.graph_test1</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.graph_test1</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/graph_test1</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.176256</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/graph_test1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4CpJLS5RSE4sTi22UjBUqAHigsTi4tQULhBZVJKZnweU0FXIy89LVdDl4gIA+UQh8g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 29 21:36 AEST</EndDateTime>
+		<EndTestTime>1659094578</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

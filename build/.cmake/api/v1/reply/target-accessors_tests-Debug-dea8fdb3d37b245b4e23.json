@@ -1,0 +1,191 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "test/graph/accessors_tests"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"cxx_executable",
+			"cxx_test",
+			"target_link_libraries",
+			"target_compile_options",
+			"include_directories",
+			"target_include_directories",
+			"add_impl",
+			"PROJECT_TEMPLATE_CALL_ADD_IMPL"
+		],
+		"files" : 
+		[
+			"config/cmake/add-targets.cmake",
+			"test/graph/CMakeLists.txt",
+			"CMakeLists.txt",
+			"config/cmake/add-targets-impl.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 1
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 29,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 20,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wno-error"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wno-self-assign-overloaded"
+				},
+				{
+					"fragment" : "-std=c++20"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 7,
+					"path" : "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/graph"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/test/."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "test_main::@36f028580bb02cc8272a"
+		}
+	],
+	"id" : "accessors_tests::@65eb5b85ff4fdfaf5921",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -g -fsanitize=address,undefined -fstack-protector-strong",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-fuse-ld=lld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "../libtest_main.a",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "accessors_tests",
+	"nameOnDisk" : "accessors_tests",
+	"paths" : 
+	{
+		"build" : "test/graph",
+		"source" : "test/graph"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "test/graph/accessors_tests.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

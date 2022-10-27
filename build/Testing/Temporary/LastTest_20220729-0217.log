@@ -1,0 +1,81 @@
+Start testing: Jul 29 21:36 AEST
+----------------------------------------------------------
+2/2 Testing: test.constructor_tests
+2/2 Test: test.constructor_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/constructor_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.constructor_tests" start time: Jul 29 21:36 AEST
+Output:
+----------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+constructor_tests is a Catch v2.13.9 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+graph(graph&) constructor test
+  graph copy constructed from multi-node graph
+-------------------------------------------------------------------------------
+../test/graph/constructor_tests.cpp:98
+...............................................................................
+
+../test/graph/constructor_tests.cpp:111: FAILED:
+  CHECK( g.is_node(4) == true )
+with expansion:
+  false == true
+
+-------------------------------------------------------------------------------
+graph(graph&) constructor test
+  graph copy constructed from multi-node graph with edges
+-------------------------------------------------------------------------------
+../test/graph/constructor_tests.cpp:115
+...............................................................................
+
+../test/graph/constructor_tests.cpp:130: FAILED:
+  CHECK( g.is_node(4) == true )
+with expansion:
+  false == true
+
+-------------------------------------------------------------------------------
+operator=(graph&) test
+-------------------------------------------------------------------------------
+../test/graph/constructor_tests.cpp:191
+...............................................................................
+
+../test/graph/constructor_tests.cpp:205: FAILED:
+  CHECK( g.is_node(4) == true )
+with expansion:
+  false == true
+
+===============================================================================
+test cases:  7 |  5 passed | 2 failed
+assertions: 66 | 63 passed | 3 failed
+
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Failed.
+"test.constructor_tests" end time: Jul 29 21:36 AEST
+"test.constructor_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/2 Testing: test.graph_test1
+1/2 Test: test.graph_test1
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph/graph_test1"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass3/build/test/graph
+"test.graph_test1" start time: Jul 29 21:36 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test1" end time: Jul 29 21:36 AEST
+"test.graph_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 29 21:36 AEST
